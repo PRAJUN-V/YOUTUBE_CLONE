@@ -277,3 +277,6 @@ body{
 .channel-picture{
     margin-right: 15px;
 }
+textarea:focus, input:focus{
+    outline: none;
+}
